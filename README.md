@@ -3,3 +3,6 @@ Hacktober is an amazing event. It helps new developers to learn how to create an
 Happy hacktober!
 
 Winter is Coming! 
+
+Valar Morghulis!
+Valar Dohaeris!
