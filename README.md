@@ -1,15 +1,15 @@
-# Hacktoberfest
+# Hacktoberfest For Beginners
 
 ## Get started with Git & Github join Hacktoberfest. First fork the repo, then:
 
 ```
-$ git clone [insert link here]
+$ git clone https://github.com/madhu-amrit/hacktoberfest-for-beginners.git
 ```
 
 ## open the directory
 
 ```
-$ cd misc-for-hacktober-1
+$ cd hacktoberfest-for-beginners
 ```
 
 
@@ -21,4 +21,5 @@ $ cd misc-for-hacktober-1
 
  3. If you have made projects that you're proud of add the link to the projects list (can also be github link of the repo).
 
+ 
  
