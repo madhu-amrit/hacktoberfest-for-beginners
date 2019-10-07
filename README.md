@@ -1,2 +1,14 @@
-# misc-for-hacktober
-hacktober is an amazing event. this helps new developers to learn how to create and merge pull requests and also encourages them to work on new projects. keep pushing to win t-shirts :0 happy hacktober! This is amazing the work being done here is just phenominal!
+# Hacktoberfest
+
+##To get started with Hacktoberfest. First fork the repo, then:
+
+```
+$ git clone [insert link here]
+```
+
+## open the directory
+
+```
+$ cd misc-for-hacktober-1
+```
+## To get started with contributing, add your name to the contributors list. 
